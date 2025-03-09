@@ -47,5 +47,5 @@ Here’s what it looks like in action:
 
 1. **Clone the Repo**:
    ```bash
-   git clone https://github.com/yourusername/AsthmaPredictor.git
+   git clone https://github.com/ThorOdinson95/Breathe_easy_DL.git
    cd AsthmaPredictor
